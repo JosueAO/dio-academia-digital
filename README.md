@@ -1,14 +1,18 @@
-<h1>Projeto Spring Data JPA na Prática </h1>
-<strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
+<h1>Projeto Spring Data JPA</h1>
+<strong>Este projeto faz parte de alguns Bootcamp da DIO - Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
-<h2>🎯 Objetivo do Projeto</h2>
-<p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<h2>Objetivo do Projeto</h2>
+<p>Os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> foi desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 <h2>
-Pré-requistos
+Pré-requistos para coopreender esse projeto:
 </h2>
 
-- [x] Fundamentos do Spring Boot
+- [x] Lógica de programação e POO;
+
+- [x] Conhecimentos intermediários de Java, Spring Framework;
+
+- [x] Fundamentos do Spring Boot;
 
 - [x] Noções de SQL
 
@@ -69,11 +73,6 @@ Indica qual é o lado inverso ou não dominante da relação.
     <li><a href="https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories">Spring Data JPA - Reference Documentation</a></li>
 </ul>
 
-
-<h2> Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 
 
 
